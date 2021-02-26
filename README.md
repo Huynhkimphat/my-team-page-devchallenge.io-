@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="[https://{your-demo-link.your-domain}](https://my-team-page-devchallenge-io.vercel.app/)">
+    <a href="https://my-team-page-devchallenge-io.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="[https://{your-url-to-the-solution}](https://github.com/Huynhkimphat/my-team-page-devchallenge.io-)">
+    <a href="https://github.com/Huynhkimphat/my-team-page-devchallenge.io-">
       Solution
     </a>
     <span> | </span>
